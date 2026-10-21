@@ -1,234 +1,210 @@
-# Cheapest International Trip Opportunities — March–October 2027
+# Trip Out Tha Country — Agent Handover Document
 
-**Home base:** Greenville, South Carolina  
-**Likely group size:** 2–3 travelers  
-**Trip length:** 4–8 days  
-**Research date:** October 21, 2026  
-**Primary goal:** Lowest realistic total cost, not merely the cheapest airfare
+> This document is the durable project context for any human or AI agent taking over this trip-planning work. Update it whenever a decision, fare, date, deployment detail, or next step changes.
 
-## Executive conclusion
+## Project identity
 
-**Medellín, Colombia is the strongest current candidate.** A 4-day trip from Atlanta with airfare around $400–$425 can plausibly land near **$800–$900 per person** after lodging, food, transportation, activities, and airport positioning.
+- **Project:** Trip Out Tha Country
+- **Repository:** [trystonproffit-jpg/Trip-Out-Tha-Country](https://github.com/trystonproffit-jpg/Trip-Out-Tha-Country)
+- **Live-site workflow:** Netlify is intended to deploy the repository's `main` branch automatically.
+- **Home base:** Greenville, South Carolina
+- **Likely travelers:** 2–3 people, with larger-group comparisons useful when relevant
+- **Travel window:** March–October 2027
+- **Preferred trip length:** 4–8 days
+- **Research snapshot:** October 21, 2026
+- **Primary goal:** Find the lowest realistic total trip cost, not merely the lowest advertised airfare.
 
-Guatemala is the next-best value option. Cancún can produce very cheap airfare, but its higher lodging and activity costs usually erase the advantage. Europe is currently not competitive unless airfare drops sharply.
+## What we are building
 
-## Shortlist
+We are building a shareable, mobile-friendly trip research page that friends can review and update. It should help the group choose a destination, date range, departure airport, and booking threshold.
 
-| Rank | Destination and dates | Length | Flight / route | Airfare | Estimated total/person | Why consider it |
-|---:|---|---:|---|---:|---:|---|
-| 1 | Medellín — Apr 12–16, 2027 | 4 days / 3 nights | ATL–MDE, connecting | $411 | **~$810** | Best current total-cost candidate; excellent food, nightlife, neighborhoods, and day trips |
-| 2 | Medellín — late Feb/early Mar target | 4–5 days | ATL–MDE, connecting | $399–$450 target | **~$800–$900** | Worth watching closely; strongest combination of airfare and low local costs |
-| 3 | Guatemala City + Antigua — Mar 1–6, 2027 | 5 days / 4 nights | ATL–GUA, Frontier | $553 | **~$1,010** | Colonial architecture, volcanoes, food, and culture |
-| 4 | Guatemala City + Antigua — Mar 11–17, 2027 | 6 days / 5 nights | ATL–GUA, Delta nonstop | $605 | **~$1,200** | Easier flight and better schedule, but airfare weakens the value |
-| 5 | Mexico City — Mar 24–28, 2027 | 4 days / 3 nights | ATL–MEX, one stop | $642 | **~$1,110** | Huge amount to do without a car; museums, food, neighborhoods, nightlife |
-| 6 | Cancún — Mar 6–13, 2027 | 7 days / 6 nights | ATL–CUN, one stop | $282 cached fare | **~$1,250** | Strong beach option, but lodging and activities are relatively expensive |
-| 7 | Medellín — March/April 2027 | 4–5 days | ATL–MDE, connecting | ~$411 observed nearby | **~$850–$950** | Repeat the search around midweek dates; this route has the best upside |
-| 8 | Bogotá — Mar 20–28, 2027 | 8 days / 7 nights | ATL–BOG, likely connecting | ~$608 | **~$1,260** | Food, museums, history, and lower local costs; less immediately enjoyable than Medellín for a short trip |
-| 9 | Mexico City — Jun 5–12, 2027 | 7 days / 6 nights | ATL–MEX, one stop each way | $612 | **~$1,400** | Excellent experience, but not a cheapest-trip winner at this fare |
-| 10 | Rome — Mar 24–29, 2027 | 5 days / 4 nights | ATL–FCO, one stop each way | $888 | **~$1,640** | Europe wildcard only; currently loses to Latin America on total cost |
+The page compares:
 
-**Important:** Airfares are observed or cached prices, not guaranteed booking quotes. Basic-economy baggage and final checkout pricing may increase the airfare.
+- Round-trip airfare from GSP, CLT, and ATL.
+- Full estimated cost per traveler: airfare, positioning, lodging, food, transportation, activities, and baggage risk.
+- 4–8 day itineraries suitable for a small group.
+- Colombia and Guatemala as the current priority destinations.
+- Alternatives such as Mexico City, Cancún, Europe, and Caribbean options.
 
-## Estimated cost breakdowns
+## Current conclusion
 
-### Medellín — best current option
+**Medellín, Colombia is the leading option.** The strongest current signal is ATL–MDE around **$411 round trip** for April 2027. A realistic 4-day trip could land around **$800–$900 per person** when local costs and Greenville-to-Atlanta positioning are included.
 
-Example: Apr 12–16, 2027, 4 days / 3 nights.
+**Guatemala is the next-best value option**, especially Antigua combined with Guatemala City. Current dated fares are higher than the Medellín target, generally around **$553–$619** from ATL/CLT.
 
-| Category | Estimate/person |
-|---|---:|
-| Round-trip airfare | $411 |
-| Lodging | $135 |
-| Food | $100 |
-| Local transportation | $35 |
-| Airport transfers | $20 |
-| Basic activities | $60 |
-| Visa/entry fees | $0 expected |
-| Greenville-to-ATL positioning | ~$40 |
-| **Estimated total** | **~$800–$825** |
+Cancún can have very cheap airfare, but lodging and activities often erase the savings. Europe is currently more expensive overall, although CLT–Dublin and CLT–Rome are worth monitoring.
 
-Medellín works well without a rental car. The metro, rideshare, and walking cover most normal itineraries. A practical 4–5 day plan could include Comuna 13, a food tour, museums and neighborhoods, nightlife, and a Guatapé day trip.
+## Current leading opportunities
 
-U.S. citizens generally do not need a Colombian tourist visa for stays of 90 days or less. Colombia requires the free Check-Mig form and may request proof of onward travel.
+| Rank | Route / destination | Dates | Fare signal | Estimated total/person | Status |
+|---:|---|---|---:|---:|---|
+| 1 | ATL–MDE Medellín | Apr 12–16, 2027 | **$411** | ~$800–$825 | Best current candidate |
+| 2 | ATL–MDE Medellín | Apr 11–16, 2027 | **$411** | ~$850–$900 | Strong alternate length |
+| 3 | ATL–GUA Guatemala City + Antigua | Mar 1–6, 2027 | **$553** | ~$1,010 | Best dated Guatemala value found |
+| 4 | CLT–GUA Guatemala City + Antigua | Mar 24–29, 2027 | **$619** | ~$1,100+ | Watch; CLT drive cost matters |
+| 5 | ATL–BOG Bogotá | Mar 20–28, 2027 | ~$608 | ~$1,260 | Wait for a lower fare |
+| 6 | CLT–DUB Dublin | Mar 31–Apr 7, 2027 | **$543** | ~$1,200–$1,300 | Best Europe airfare found |
+| 7 | CLT–FCO Rome | Mar 23–30, 2027 | **$619** | ~$1,400–$1,500 | Best Italy fare found |
 
-### Antigua Guatemala — best adventure/nature option
+These are observed or cached search results, not guaranteed bookable quotes. Every promising fare must be checked at airline checkout with baggage and connection details included.
 
-Example: Mar 1–6, 2027, 5 days / 4 nights.
+## Targeted Colombia and Guatemala research
 
-| Category | Estimate/person |
-|---|---:|
-| Round-trip airfare | $553 |
-| Lodging | $140 |
-| Food | $125 |
-| Local transportation and Antigua shuttle | $55 |
-| Airport transfers | Included above |
-| Volcano/cultural activities | $100 |
-| Visa/entry fees | $0 expected |
-| Greenville-to-ATL positioning | ~$40 |
-| **Estimated total** | **~$1,010** |
+### Colombia
 
-Antigua is approximately a 50-minute transfer from Guatemala City airport. It is walkable once there, but volcano hikes and other excursions require organized transport.
+- **Medellín:** ATL–MDE at $411 for Apr 12–16 and Apr 11–16, 2027. This is the strongest fare and route found.
+- **Bogotá:** ATL–BOG around $608 for Mar 20–28, 2027; wait unless it drops below $550.
+- **Cartagena:** possible aggregator signals around $383–$410, but no clean 4–8 day 2027 date pair survived a stronger airline-level check. Treat as a watchlist route.
+- **GSP:** current signals around $649–$650 for Medellín, so ATL is materially better.
 
-U.S. citizens generally do not need a tourist visa for stays up to 90 days. Guatemala requires electronic immigration and customs declarations.
+### Guatemala
 
-### Mexico City — best urban experience
+- **ATL–GUA:** $553 for Mar 1–6, 2027.
+- **ATL–GUA:** $605 for Mar 11–17, 2027.
+- **CLT–GUA:** $619 for Mar 24–29, 2027.
+- **April/May target:** monthly floor around $480 appeared, but exact dates still need confirmation.
+- **GSP:** current signals around $628–$644, so ATL is the airport to watch.
+- One suspicious CLT–GUA calendar result around $228 conflicted with stronger results. Do not use it unless final checkout confirms a complete round trip.
 
-Example: Mar 24–28, 2027, 4 days / 3 nights.
+## Airport rules
 
-| Category | Estimate/person |
-|---|---:|
-| Round-trip airfare | $642 |
-| Lodging | $165 |
-| Food | $120 |
-| Local transportation | $35 |
-| Airport transfers | $25 |
-| Museums and activities | $80 |
-| Visa/entry fees | Usually $0 for short tourism; verify before booking |
-| Greenville-to-ATL positioning | ~$40 |
-| **Estimated total** | **~$1,100–$1,125** |
+Use the airport only after adding the real positioning cost:
 
-Mexico City is easy without a car and has enough food, museums, nightlife, architecture, and neighborhoods for a 4-day trip. It becomes a stronger contender if airfare falls below approximately $450.
+| Airport | Approximate drive from Greenville | Use when |
+|---|---:|---|
+| GSP | Local | Fare is reasonably close to CLT/ATL |
+| CLT | About 1 hr 40 min | At least ~$50–$75 cheaper per person |
+| ATL | About 2½ hours | At least ~$75–$100 cheaper per person |
 
-### Cancún — best beach option
-
-Example: Mar 6–13, 2027, 7 days / 6 nights.
-
-| Category | Estimate/person |
-|---|---:|
-| Round-trip airfare | $282 cached fare |
-| Lodging | $390 |
-| Food | $315 |
-| Local transportation | $70 |
-| Airport transfers | $35 |
-| Beach/island activities | $120 |
-| Visa/entry fees | Usually $0 for short tourism; verify before booking |
-| Greenville-to-ATL positioning | ~$40 |
-| **Estimated total** | **~$1,250** |
-
-Cancún is not automatically cheap. It wins only when airfare is unusually low and lodging is controlled through a shared apartment or modest hotel outside the most expensive resort zones.
-
-## Airport comparison
-
-Approximate extra cost from Greenville, assuming the cost is split among 2–3 travelers:
-
-| Airport | Approximate drive | Practical extra cost/person | When it makes sense |
-|---|---:|---:|---|
-| GSP | Local | Baseline; economy parking is about $10/day | Use when the fare is reasonably close to CLT/ATL |
-| CLT | About 1 hr 40 min | Roughly $20–$35 | Use when airfare is at least ~$50–$75 cheaper/person |
-| ATL | About 2½ hours | Roughly $25–$50; possibly more with an overnight | Use when airfare is at least ~$75–$100 cheaper/person |
-
-For 6–8 travelers, driving costs are divided across more people, so CLT and ATL become more attractive. For 2 travelers, the airfare savings must be substantial.
+For larger groups, driving costs divide across more travelers. For two travelers, the airfare savings need to be substantial.
 
 ## Booking thresholds
 
-| Destination | Good booking target |
+These are the current “serious buy” targets, not guarantees:
+
+- **Medellín:** $400–$425 round trip from ATL
+- **Guatemala:** $450–$500 from ATL; accept ~$550 if dates are especially convenient
+- **Bogotá:** below $550 from ATL or below $600 from CLT
+- **Cartagena:** clean dated fare around $400–$450
+- **Mexico City:** below $450
+- **Cancún:** below $350 unless lodging is unusually cheap
+- **Dublin:** $550 or less from CLT
+- **Rome:** $625 or less from CLT
+
+## Cost assumptions
+
+Unless a newer calculation replaces them, estimates assume:
+
+- Economy airfare, usually personal-item-only.
+- 2–3 travelers sharing a room or apartment.
+- No rental car.
+- Roughly $40/person for Greenville-to-ATL positioning.
+- Approximately $60–$150 round trip if carry-on or checked baggage is added.
+- Local prices and lodging are planning estimates, not quotes.
+
+### Medellín example
+
+| Category | Estimate/person |
 |---|---:|
-| Medellín | $400–$425 round trip |
-| Guatemala | $450–$500 |
-| Mexico City | Below $450 |
-| Cancún | Below $350 unless lodging is unusually cheap |
-| Lisbon/Europe | Below $500 before it becomes a serious contender |
+| Airfare | $411 |
+| Lodging, 3 nights | $135 |
+| Food | $100 |
+| Local transportation | $35 |
+| Airport transfers | $20 |
+| Activities | $60 |
+| Greenville-to-ATL positioning | ~$40 |
+| **Estimated total** | **~$800–$825** |
 
-## Category winners
+Medellín is practical without a rental car. Possible activities include Comuna 13, a food tour, museums, neighborhoods, nightlife, and a Guatapé day trip.
 
-- **Cheapest overall:** Medellín
-- **Best value:** Medellín
-- **Best Europe option:** Lisbon, but only if airfare drops substantially
-- **Best beach option:** Cancún
-- **Best adventure/nature option:** Antigua Guatemala
-- **Best option for 2–3 people:** Medellín or Antigua
-- **Best option for 6–8 people:** Medellín, Antigua, or Mexico City with a large apartment
+### Antigua Guatemala example
 
-## Deep-search findings
+| Category | Estimate/person |
+|---|---:|
+| Airfare | $553 |
+| Lodging, 4 nights | $140 |
+| Food | $125 |
+| Transport and shuttle | $55 |
+| Activities | $100 |
+| Greenville-to-ATL positioning | ~$40 |
+| **Estimated total** | **~$1,010** |
 
-The strongest additional deals found outside the initial shortlist were from Charlotte Douglas. These are meaningful because the airfare is much lower than the first ATL-Europe results, although Latin America still wins on total trip cost.
+Antigua is approximately a 50-minute transfer from Guatemala City airport. It is walkable, but volcano hikes and excursions need organized transport.
 
-| Opportunity | Exact dates | Length | Fare | Net assessment |
-|---|---|---:|---:|---|
-| Charlotte–Dublin | Mar 31–Apr 7, 2027 | 7 days / 6 nights | **$543** | Best Europe airfare found; estimated total trip cost roughly $1,200–$1,300/person |
-| Charlotte–Dublin | Apr 26–May 6, 2027 | 11 days | $543 | Excellent fare but exceeds the 8-day limit |
-| Charlotte–Rome | Mar 23–30, 2027 | 8 days / 7 nights | **$619** | Best Italy airfare found; estimated total roughly $1,400–$1,500/person |
-| Charlotte–Barcelona | Mar 24–Apr 2, 2027 | 10 days | $636 | Good fare but exceeds the 8-day limit |
-| Charlotte–Curaçao | May 3–7, 2027 | 4 days / 3 nights | $608 | Interesting beach wildcard; total likely $1,050–$1,250/person |
+## Research and booking procedure
 
-### What the deep search changed
+When continuing the work:
 
-- **Best Europe option is now CLT–Dublin at $543**, not ATL–Rome.
-- **Best Italy option is CLT–Rome at $619** for Mar. 23–30.
-- **Best overall remains Medellín**, because the $400–$425 airfare combines with much cheaper lodging, food, and transportation.
-- **Do not reposition to Orlando or Miami just for a low fare** unless the savings are several hundred dollars per person; the extra driving, parking, or positioning flight would likely erase the advantage.
-- Frontier’s new Colombia expansion is worth monitoring, but its advertised launch fares are primarily tied to Orlando and limited travel dates, not the requested GSP/CLT/ATL origins.
+1. Search ATL, CLT, and GSP separately; do not assume the cheapest headline fare is a round trip.
+2. Prioritize 4–8 day combinations in March–October 2027.
+3. Check nearby Tuesday/Wednesday dates and nearby weekends.
+4. Verify the exact itinerary at the airline checkout page.
+5. Record the airline, dates, fare type, bags, stops, and source link.
+6. Add airport positioning, lodging, food, transportation, activities, and baggage before ranking the option.
+7. Mark results as **strong**, **medium**, **cached**, or **unverified**.
+8. Update this handover document and the HTML page when a result materially changes the recommendation.
 
-### Deal-hunter strategy
+## Repository and website workflow
 
-1. Watch **ATL–MDE**, **ATL–GUA**, **ATL–CUN**, **CLT–DUB**, and **CLT–FCO** as the primary routes.
-2. Search Tuesday/Wednesday departures and returns, but check nearby weekend combinations because fare buckets can be irregular.
-3. Compare the airline checkout price, not only an aggregator’s cached result.
-4. Check personal-item-only pricing first, then add baggage only if necessary.
-5. Treat fares under these levels as serious buy candidates: Medellín $425, Guatemala $500, Dublin $550, Rome $625, Cancún $350.
+- `index.html` is the deployable page and the file Netlify serves at the site root.
+- `trip-opportunities-2027.html` is the named copy of the page.
+- This Markdown file is the agent handover and working source of project context.
+- `README.md` explains the repository and deployment setup.
+- Netlify should redeploy after pushes to `main` if continuous deployment is connected.
+- If the visible page changes, update both `index.html` and `trip-opportunities-2027.html` so they do not drift apart.
+- After local edits:
+
+```bash
+git add .
+git commit -m "Describe the update"
+git push
+```
+
+## Decisions already made
+
+- Use GitHub as the source of truth for the deployed site.
+- Use Netlify for simple hosting and automatic redeploys.
+- Keep the site static: no framework, build step, database, or external dependencies are needed.
+- Focus deep flight research on Colombia and Guatemala before spending time on Europe.
+- Treat Medellín as the current winner unless a materially better verified total-cost option appears.
+
+## Open questions and next actions
+
+- Confirm the group’s exact travel month and preferred trip length.
+- Confirm whether everyone can depart from ATL or CLT.
+- Confirm baggage needs and whether personal-item-only fares are acceptable.
+- Recheck ATL–MDE and ATL–GUA at airline checkout before booking.
+- Compare current lodging for Medellín, Antigua, and Guatemala City for the final dates.
+- Build a short itinerary and shared decision table after the group gives input.
+- Recheck entry rules, travel advisories, and passport validity before purchase.
+
+## Update log
+
+### October 21, 2026
+
+- Created the organized trip research and static HTML page.
+- Created the GitHub repository and pushed `index.html`, `trip-opportunities-2027.html`, and this Markdown file.
+- Connected the project workflow around GitHub plus Netlify.
+- Deep-searched Colombia and Guatemala, with ATL–MDE at $411 as the strongest current fare signal.
+- Added this handover structure so another agent can continue without reconstructing the project history.
 
 ## Sources
 
-## Targeted Colombia/Guatemala deep-search update
-
-### Best verified Colombia fares
-
-| Route | Dates | Length | Fare | Confidence |
-|---|---|---:|---:|---|
-| ATL–MDE Medellín | Apr 12–16, 2027 | 4 days / 3 nights | **$411 round trip** | Strong: Copa dated fare |
-| ATL–MDE Medellín | Apr 11–16, 2027 | 5 days / 4 nights | **$411 round trip** | Strong: Copa dated fare |
-| ATL–BOG Bogotá | Mar 20–28, 2027 | 8 days / 7 nights | **~$608 round trip** | Medium: fare-calendar result; verify at checkout |
-| CLT–BOG Bogotá | Oct 2–9, 2027 | 8 days / 7 nights | **~$765 round trip** | Stronger airline listing, but not cheap enough to beat ATL |
-
-Cartagena is currently weaker than Medellín. Aggregators show possible round trips around $383–$410, but I did not find a clean 4–8 day 2027 fare/date pair at that level that survived a stronger airline-level check. Treat Cartagena as a watchlist route, not a current winner.
-
-### Best verified Guatemala fares
-
-| Route | Dates | Length | Fare | Confidence |
-|---|---|---:|---:|---|
-| ATL–GUA Guatemala City | Mar 1–6, 2027 | 5 days / 4 nights | **$553 round trip** | Medium-high: dated AirHint result |
-| ATL–GUA Guatemala City | Mar 11–17, 2027 | 6 days / 5 nights | **$605 round trip** | Medium-high: dated AirHint result |
-| CLT–GUA Guatemala City | Mar 24–29, 2027 | 5 days / 4 nights | **$619 round trip** | Medium: dated aggregator result |
-| ATL–GUA Guatemala City | April/May 2027 | 4–8 days | **$480 monthly floor** | Target only; exact date pair still needs confirmation |
-
-### Airport conclusion
-
-- **ATL is the airport to watch for Medellín and Guatemala.**
-- **GSP is not competitive:** current signals are roughly $649–$650 for Medellín and $628–$644 for Guatemala City.
-- **CLT only wins if it produces a fare at least $50–$75 below ATL** after fuel, parking, and time are counted.
-- A CLT–GUA listing around $228 appeared in one low-cost calendar, but it conflicts sharply with the $619–$849 airline-level results. Do not treat it as real until the final airline checkout confirms the complete round trip.
-
-### Best search windows
-
-- Medellín: prioritize March and April; KAYAK’s historical route data shows March as the cheapest month and June/July as substantially more expensive.
-- Guatemala: prioritize April and May; AirHint shows monthly floors near $480, while June and August are materially worse.
-- Avoid assuming a low one-way fare is a cheap round trip; Colombia and Guatemala searches frequently expose attractive one-way prices that do not pair symmetrically.
-
-### Current buy targets
-
-- **Medellín:** book immediately around $400–$425 round trip from ATL.
-- **Guatemala:** book around $450–$500 from ATL, or accept $550 if the dates are especially convenient.
-- **Bogotá:** wait unless ATL drops below $550 or CLT drops below $600.
-- **Cartagena:** wait for a clean $400–$450 dated fare, unless the experience is worth paying more.
-
 - [Copa ATL–MDE fare examples](https://www.copaair.com/es-us/vuelos-desde-atlanta-a-medellin)
-- [Medellín fare alert for 2027 travel](https://www.secretflying.com/posts/atlanta-medellin-colombia-332-roundtrip/)
+- [Medellín 2027 fare alert](https://www.secretflying.com/posts/atlanta-medellin-colombia-332-roundtrip/)
 - [AirHint ATL–GUA March 2027 fares](https://deals.airhint.com/pl/cheapest-deals/return/ATL/GUA/3)
-- [Axel ATL–MEX dated fare examples](https://helloaxel.com/en/flights/from-atlanta-to-mexico-city-mex)
-- [Axel ATL–CUN dated fare examples](https://helloaxel.com/en/flights/from-atlanta-to-cancun-cun)
+- [Axel ATL–MEX dated fares](https://helloaxel.com/en/flights/from-atlanta-to-mexico-city-mex)
+- [Axel ATL–CUN dated fares](https://helloaxel.com/en/flights/from-atlanta-to-cancun-cun)
 - [TripByCost ATL–CUN cached fare](https://tripbycost.com/to/cancun)
-- [Axel ATL–FCO dated fare examples](https://helloaxel.com/en/flights/from-atlanta-to-rome-fco)
+- [Axel ATL–FCO dated fares](https://helloaxel.com/en/flights/from-atlanta-to-rome-fco)
 - [U.S. State Department — Colombia](https://travel.state.gov/en/international-travel/travel-advisories/colombia.html)
 - [U.S. State Department — Guatemala](https://travel.state.gov/en/international-travel/travel-advisories/guatemala.html)
-- [U.S. State Department — El Salvador](https://travel.state.gov/en/international-travel/travel-advisories/el-salvador.html)
 - [GSP parking rates](https://gspairport.com/parking/)
 
-## Risks and limitations
+## Risks and limits
 
-- Fares can disappear before booking and may be Basic Economy.
-- Carry-on or checked-bag fees could add approximately $60–$150 round trip.
-- Hotel prices vary substantially by neighborhood, dates, and group size.
-- The totals are planning estimates, not guaranteed quotes.
-- Recheck official airline, hotel, and government entry pages immediately before booking.
-
-shortcut: This is an initial screening model, not a final checkout-level itinerary; upgrade by rechecking exact dates, baggage, and specific lodging before purchase.
+- Flight prices can disappear and may be Basic Economy.
+- Cached or aggregator fares can be stale, incomplete, one-way, or missing baggage.
+- Lodging and local costs vary by neighborhood, dates, and group size.
+- Travel rules and advisories can change; verify official sources before booking.
+- This document is an evolving handover, not a booking confirmation.

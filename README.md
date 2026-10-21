@@ -8,7 +8,7 @@ The project compares affordable destinations, flight routes, estimated total cos
 
 - [`index.html`](index.html) — Main page for Netlify or any static host.
 - [`trip-opportunities-2027.html`](trip-opportunities-2027.html) — Named copy of the HTML planning page.
-- [`trip-opportunities-2027.md`](trip-opportunities-2027.md) — Editable research source document.
+- [`trip-opportunities-2027.md`](trip-opportunities-2027.md) — Agent handover document and working source of project context.
 
 ## Deploy with Netlify
 

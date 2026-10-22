@@ -2,7 +2,7 @@
 
 Travel planning research for a 2027 international trip from the Greenville, South Carolina area.
 
-The project compares affordable destinations, flight routes, estimated total costs, airports, booking thresholds, and Colombia/Guatemala flight deals.
+The project compares affordable international destinations worldwide, flight routes, estimated total costs, airports, booking thresholds, and current deal candidates including Colombia, Guatemala, Costa Rica, Thailand, Vietnam, and the Philippines.
 
 ## Files
 

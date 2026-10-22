@@ -23,8 +23,9 @@ The page compares:
 - Round-trip airfare from GSP, CLT, and ATL.
 - Full estimated cost per traveler: airfare, positioning, lodging, food, transportation, activities, and baggage risk.
 - 4–8 day itineraries suitable for a small group.
-- Colombia and Guatemala as the current priority destinations.
-- Alternatives such as Mexico City, Cancún, Europe, and Caribbean options.
+- Any destination outside the United States is eligible if the total trip is genuinely cheap and practical.
+- Priority watchlist: Colombia, Guatemala, Costa Rica, Thailand, Vietnam, and the Philippines.
+- Also scan Mexico, the wider Caribbean, South America, Central America, Europe, the Middle East, and Asia instead of stopping at the named list.
 
 ## Current conclusion
 
@@ -32,7 +33,22 @@ The page compares:
 
 **Guatemala is the next-best value option**, especially Antigua combined with Guatemala City. Current dated fares are higher than the Medellín target, generally around **$553–$619** from ATL/CLT.
 
-Cancún can have very cheap airfare, but lodging and activities often erase the savings. Europe is currently more expensive overall, although CLT–Dublin and CLT–Rome are worth monitoring.
+Cancún can have very cheap airfare, but lodging and activities often erase the savings. Europe, the Middle East, and Asia may have higher airfare but should remain in the search because an unusually low fare could beat Latin America on total cost.
+
+## Expanded global search scope
+
+The search is **not limited to Colombia, Guatemala, or Latin America**. Search anywhere outside the United States and rank destinations by realistic total cost.
+
+Named places to watch closely:
+
+- **Central America:** Costa Rica, Guatemala, Panama, Belize, and El Salvador
+- **South America:** Colombia, Peru, Ecuador, Bolivia, Brazil, Argentina, and Chile
+- **Asia:** Thailand, Vietnam, the Philippines, Malaysia, Indonesia, Cambodia, Japan, South Korea, and Taiwan
+- **Middle East:** Turkey, Jordan, the United Arab Emirates, Qatar, and Oman
+- **Europe:** Portugal, Spain, Ireland, Italy, Greece, the Balkans, and any city with an exceptional fare
+- **Caribbean/Mexico:** Cancún, Mexico City, Curaçao, Dominican Republic, Puerto Rico, and Jamaica
+
+The agent must still search broadly beyond this list. A destination should be promoted when its airfare, lodging, food, transportation, activities, baggage, and airport-positioning costs produce a better overall trip than the current Medellín benchmark.
 
 ## Current leading opportunities
 
@@ -136,13 +152,14 @@ Antigua is approximately a 50-minute transfer from Guatemala City airport. It is
 When continuing the work:
 
 1. Search ATL, CLT, and GSP separately; do not assume the cheapest headline fare is a round trip.
-2. Prioritize 4–8 day combinations in March–October 2027.
-3. Check nearby Tuesday/Wednesday dates and nearby weekends.
-4. Verify the exact itinerary at the airline checkout page.
-5. Record the airline, dates, fare type, bags, stops, and source link.
-6. Add airport positioning, lodging, food, transportation, activities, and baggage before ranking the option.
-7. Mark results as **strong**, **medium**, **cached**, or **unverified**.
-8. Update this handover document and the HTML page when a result materially changes the recommendation.
+2. Search every major region outside the United States, with extra attention to Costa Rica, Thailand, Vietnam, and the Philippines.
+3. Prioritize 4–8 day combinations in March–October 2027.
+4. Check nearby Tuesday/Wednesday dates and nearby weekends.
+5. Verify the exact itinerary at the airline checkout page.
+6. Record the airline, dates, fare type, bags, stops, destination region, and source link.
+7. Add airport positioning, lodging, food, transportation, activities, and baggage before ranking the option.
+8. Mark results as **strong**, **medium**, **cached**, or **unverified**.
+9. Update this handover document and the HTML page when a result materially changes the recommendation.
 
 ## Repository and website workflow
 
@@ -165,7 +182,7 @@ git push
 - Use GitHub as the source of truth for the deployed site.
 - Use Netlify for simple hosting and automatic redeploys.
 - Keep the site static: no framework, build step, database, or external dependencies are needed.
-- Focus deep flight research on Colombia and Guatemala before spending time on Europe.
+- Search globally outside the United States; Colombia and Guatemala are the current benchmark, not a geographic restriction.
 - Treat Medellín as the current winner unless a materially better verified total-cost option appears.
 
 ## Open questions and next actions
@@ -186,6 +203,7 @@ git push
 - Created the GitHub repository and pushed `index.html`, `trip-opportunities-2027.html`, and this Markdown file.
 - Connected the project workflow around GitHub plus Netlify.
 - Deep-searched Colombia and Guatemala, with ATL–MDE at $411 as the strongest current fare signal.
+- Expanded the search scope to worldwide destinations outside the United States, specifically adding Costa Rica, Thailand, Vietnam, and the Philippines.
 - Added this handover structure so another agent can continue without reconstructing the project history.
 
 ## Sources

@@ -11,7 +11,7 @@
 - **Likely travelers:** 2–3 people, with larger-group comparisons useful when relevant
 - **Travel window:** March–October 2027
 - **Preferred trip length:** 4–8 days
-- **Research snapshot:** October 21, 2026
+- **Research snapshot:** October 26, 2026
 - **Primary goal:** Find the lowest realistic total trip cost, not merely the lowest advertised airfare.
 
 ## What we are building
@@ -29,11 +29,17 @@ The page compares:
 
 ## Current conclusion
 
-**Medellín, Colombia is the leading option.** The strongest current signal is ATL–MDE around **$411 round trip** for April 2027. A realistic 4-day trip could land around **$800–$900 per person** when local costs and Greenville-to-Atlanta positioning are included.
+**Medellín remains the clear leader.** ATL–MDE fares continue to hover around the project's buy threshold, with a fresh lead around **$446 round trip** for Apr 8–11 and another around **$421** for Apr 13–20. An April monthly floor near **$379** has been observed, but qualifying dates still require verification.
 
-**Guatemala is the next-best value option**, especially Antigua combined with Guatemala City. Current dated fares are higher than the Medellín target, generally around **$553–$619** from ATL/CLT.
+**Guatemala is being monitored, not booked.** Current ATL leads are roughly **$567–$579 round trip**, which is above the target range.
 
 Cancún can have very cheap airfare, but lodging and activities often erase the savings. Europe, the Middle East, and Asia may have higher airfare but should remain in the search because an unusually low fare could beat Latin America on total cost.
+
+## Latest update — October 26, 2026
+
+Medellín remains the clear leader. ATL → MDE fares continue to hover around the project's buy threshold, with an April fare floor recently observed near $379, although exact qualifying dates still require verification. Guatemala fares have moved upward and should currently be monitored rather than booked. Cartagena remains a high-priority wildcard if ATL nonstop fares fall below approximately $400–425. Mexico City, Cancún, and Europe currently do not beat Colombia on realistic total-trip cost.
+
+**Important status rule:** None of the current fares in this update are airline-checkout verified. They are fresh fare leads and must be confirmed at checkout before being called bookable or verified.
 
 ## Expanded global search scope
 
@@ -54,15 +60,90 @@ The agent must still search broadly beyond this list. A destination should be pr
 
 | Rank | Route / destination | Dates | Fare signal | Estimated total/person | Status |
 |---:|---|---|---:|---:|---|
-| 1 | ATL–MDE Medellín | Apr 12–16, 2027 | **$411** | ~$800–$825 | Best current candidate |
-| 2 | ATL–MDE Medellín | Apr 11–16, 2027 | **$411** | ~$850–$900 | Strong alternate length |
-| 3 | ATL–GUA Guatemala City + Antigua | Mar 1–6, 2027 | **$553** | ~$1,010 | Best dated Guatemala value found |
-| 4 | CLT–GUA Guatemala City + Antigua | Mar 24–29, 2027 | **$619** | ~$1,100+ | Watch; CLT drive cost matters |
-| 5 | ATL–BOG Bogotá | Mar 20–28, 2027 | ~$608 | ~$1,260 | Wait for a lower fare |
-| 6 | CLT–DUB Dublin | Mar 31–Apr 7, 2027 | **$543** | ~$1,200–$1,300 | Best Europe airfare found |
-| 7 | CLT–FCO Rome | Mar 23–30, 2027 | **$619** | ~$1,400–$1,500 | Best Italy fare found |
+| 1 | ATL–MDE Medellín | Apr 8–11, 2027 | **~$446** | ~$630–$700 | MONITOR VERY CLOSELY; cheapest current total-trip lead |
+| 2 | ATL–MDE Medellín | Apr 13–20, 2027 | **~$421** | ~$735–$825 | STRONG DEAL; best overall value lead |
+| 3 | ATL–GUA Guatemala City + Antigua | Mar 8–16, 2027 | **~$567** | Above target | WAIT / MONITOR; Delta nonstop lead |
+| 4 | ATL–CTG Cartagena | 2027 dates to be found | Target ≤$400–$425 | TBD | HIGH-PRIORITY MONITOR; nonstop wildcard |
+| 5 | ATL–MEX Mexico City | 2027 dates to be found | Target ≤$400 | TBD | WAIT |
+| 6 | ATL/CLT–CUN Cancún | Apr 4–8, 2027 | **~$518** | Not competitive | PASS / WAIT |
+| 7 | Europe | Flexible 2027 dates | $816–$967 observed | Higher total cost | EUROPE DEAL WATCH |
 
 These are observed or cached search results, not guaranteed bookable quotes. Every promising fare must be checked at airline checkout with baggage and connection details included.
+
+## Latest deal details
+
+### #1 Medellín — lowest estimated total trip cost
+
+- **Route:** ATL → MDE
+- **Dates:** Apr 8–11, 2027, 4 calendar days / 3 nights
+- **Airline:** Copa Airlines
+- **Airfare lead:** approximately $446 round trip
+- **Expected routing:** one stop each way, likely Panama City (PTY)
+- **Status:** fresh aggregator lead; airline checkout required
+- **Estimated realistic total:** approximately $630–$700/person
+- **Estimated costs:** airfare $446; Greenville-to-ATL positioning/parking $35–$50; shared lodging $45–$75; food $65–$90; local transport $20–$30; transfers $15–$30; activities/miscellaneous $30–$50
+- **Purchase triggers:** $425 or less is excellent; $400 or less is immediate-buy territory after checkout verification.
+
+### #2 Medellín — best overall value
+
+- **Route:** ATL → MDE
+- **Dates:** Apr 13–20, 2027, 8 calendar days / 7 nights
+- **Airline:** Copa Airlines
+- **Airfare lead:** approximately $421 round trip
+- **Status:** fresh aggregator lead; airline checkout required
+- **Estimated realistic total:** approximately $735–$825/person
+- **Recommendation:** best overall trip value because it provides substantially more vacation time while remaining near the buy threshold.
+
+### Medellín April fare-floor note
+
+The ATL → MDE April 2027 fare calendar has recently shown an April monthly floor around **$379 round trip**. The exact qualifying 4–8 day date combination has not been confirmed. Display it only as: **“Lowest observed April fare: ~$379 — exact qualifying dates still being verified.”**
+
+### Guatemala current leads
+
+| Route | Dates | Airline | Fare lead | Status |
+|---|---|---|---:|---|
+| ATL → GUA | Mar 8–16, 2027 | Delta nonstop | ~$567 RT | Fresh lead; checkout required |
+| ATL → GUA | Mar 17–24, 2027 | Delta nonstop | ~$568 RT | Fresh lead; checkout required |
+| ATL → GUA | Mar 21–28, 2027 | Copa connecting | ~$579 RT | Fresh lead; checkout required |
+
+Guatemala targets: $500 is acceptable only with an excellent itinerary; $450–$475 is strong; $425 or less is excellent; $400 or less is immediate-buy territory. Current recommendation: **WAIT / MONITOR**.
+
+### Airport and destination status
+
+- **GSP:** keep monitoring. No exact-date fare currently beats ATL or CLT. A GSP fare can justify roughly $75–$100/person more because it removes driving, fuel, parking, time, and vehicle wear. Targets: GSP → GUA around $500 or less; GSP → Colombia around $525–$550 or less.
+- **CLT:** important for Guatemala. The prior CLT → GUA Frontier lead around $461 RT for Mar 1–5, 2027 was strong, but the personal-item-only fare must be compared with the effective fare after baggage extras.
+- **Cartagena:** high-priority wildcard. An ATL → CTG nonstop at $400–$425 RT or less could immediately become a top-three option.
+- **Mexico City:** WAIT; current fares have not consistently reached the $400 target. $350–$375 is excellent.
+- **Cancún:** PASS / WAIT. Apr 4–8, 2027 Volaris around $518 RT is not competitive. Target $350 or less; $300–$325 is excellent.
+- **Europe:** EUROPE DEAL WATCH. Current examples around ATL → Munich $816 and ATL → Zurich $967 do not compete. Promote Europe prominently only around $450–$500 RT or lower.
+
+## Deal status system
+
+- **BOOK:** fare reached its purchase threshold and has strong itinerary characteristics, pending final checkout.
+- **STRONG DEAL:** near the purchase threshold but checkout verification is still required.
+- **MONITOR:** interesting lead that may improve.
+- **WAIT:** destination is attractive but current airfare is too expensive.
+- **PASS:** current fare is not competitive.
+- **UNVERIFIED:** aggregator or search-engine price not confirmed at airline checkout.
+
+## Price triggers
+
+| Route / destination | Immediate-buy target |
+|---|---:|
+| ATL → Medellín | ≤ $400 |
+| CLT → Guatemala | ≤ $400–$425 |
+| ATL → Guatemala nonstop | ≤ $475–$500 |
+| GSP → Guatemala | ≤ $500 |
+| GSP → Colombia | ≤ $525–$550 |
+| ATL → Cartagena | ≤ $400–$425 |
+| ATL → Bogotá | ≤ $450–$500 |
+| ATL → Mexico City | ≤ $400 |
+| ATL/CLT → Cancún | ≤ $300–$350 |
+| Europe | ≤ $450–$500 |
+
+## October 2027 inventory note
+
+October 2027 inventory is still incomplete because many airlines publish schedules roughly 330 days in advance. Missing October deals must **not** be interpreted as October being expensive. Continue monitoring October as schedules are released.
 
 ## Targeted Colombia and Guatemala research
 
@@ -197,6 +278,16 @@ git push
 
 ## Update log
 
+### October 26, 2026
+
+- Refreshed the current ranking using the latest supplied fare leads.
+- Medellín is now ranked #1 and #2: ATL–MDE around $446 for Apr 8–11 and $421 for Apr 13–20.
+- Added the observed April monthly floor near $379 as an unverified date-calendar lead only.
+- Moved Guatemala to WAIT / MONITOR because current ATL leads are roughly $567–$579.
+- Added Cartagena as a high-priority wildcard at an ATL nonstop target of $400–$425 or less.
+- Added clear deal statuses, effective-fare/baggage guidance, price triggers, and the October inventory note.
+- Marked all supplied current fares as fresh leads requiring airline-checkout confirmation.
+
 ### October 21, 2026
 
 - Created the organized trip research and static HTML page.
@@ -223,6 +314,9 @@ git push
 
 - Flight prices can disappear and may be Basic Economy.
 - Cached or aggregator fares can be stale, incomplete, one-way, or missing baggage.
+- None of the October 26 current fare leads should be called verified or bookable until the airline's final checkout confirms the itinerary, fare class, taxes, baggage allowance, and total price for the required number of travelers.
+- A single cheap seat does not guarantee that 2–3 seats are available at the same price.
 - Lodging and local costs vary by neighborhood, dates, and group size.
+- ATL/CLT positioning costs and budget-airline baggage fees can materially change the effective fare.
 - Travel rules and advisories can change; verify official sources before booking.
 - This document is an evolving handover, not a booking confirmation.
